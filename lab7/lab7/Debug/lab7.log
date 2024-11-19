@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+C:\Users\23\OneDrive\Рабочий стол\lab7\lab7\lab7.cpp(52,8): warning C4476: "scanf": неизвестный символ поля типа " " в описателе формата
+C:\Users\23\OneDrive\Рабочий стол\lab7\lab7\lab7.cpp(52,15): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+C:\Users\23\OneDrive\Рабочий стол\lab7\lab7\lab7.cpp(52,15): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  lab7.vcxproj -> C:\Users\23\OneDrive\Рабочий стол\lab7\Debug\lab7.exe
